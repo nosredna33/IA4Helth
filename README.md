@@ -13,3 +13,4 @@ O objetivo do projeto é demonstrar um modelo de ecossitema, com o uso de softwa
     cadastro de desafios
     tecnológicos.](https://docs.google.com/forms/d/e/1FAIpQLSfob1f5s7JJscPSW68NBkneDeShu0VHHSmM8NjlcUsJap37kQ/viewform)
 4. [Formulários para Apresentação de Propostas - Cadastro Finep](https://forms.finep.gov.br/forms/externo/)
+5. [Como avaliar TRL](https://biotechtown.com/blog/trl/)
