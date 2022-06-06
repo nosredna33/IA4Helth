@@ -22,3 +22,4 @@ As etapas de um projeto são:
     tecnológicos.](https://docs.google.com/forms/d/e/1FAIpQLSfob1f5s7JJscPSW68NBkneDeShu0VHHSmM8NjlcUsJap37kQ/viewform)
 4. [Formulários para Apresentação de Propostas - Cadastro Finep](https://forms.finep.gov.br/forms/externo/)
 5. [Como avaliar TRL](https://biotechtown.com/blog/trl/)
+6. [Projetos com uso intensivo de dados têm uma única falha: a qualidade dos dados](https://rockcontent.com/br/blog/qualidade-de-dados/)
